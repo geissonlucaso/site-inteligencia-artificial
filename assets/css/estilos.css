@@ -69,6 +69,10 @@ body {
     text-align: center;
 }
 
+.container-quem-somos .servico:hover {
+    background-color: #143755;
+}
+
 .container-quem-somos .servico .icone {
     margin-bottom: 10px;
 }
